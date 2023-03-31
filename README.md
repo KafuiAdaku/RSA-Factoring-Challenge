@@ -15,6 +15,6 @@ that we can decode the encrypted documents.
 [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
 
 # Requirements
-** General **
+**General**
 * You can choose the language of your choice.
 * OS needs to be Standard Ubuntu 20.04 LTS/
